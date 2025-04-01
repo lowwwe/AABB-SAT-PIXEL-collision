@@ -1,6 +1,7 @@
 /// <summary>
-/// author Pete Lowe May 2022
-/// you need to change the above line or lose marks
+/// author Pete Lowe April 2025
+/// you need to watch this first
+/// https://www.youtube.com/watch?v=Ap5eBYKlGDo
 /// </summary>
 
 #include "Game.h"
